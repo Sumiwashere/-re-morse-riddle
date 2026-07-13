@@ -1,0 +1,1 @@
+The LED performs one character's lines from a play, as part of an interactive art installation meant to facilitate improv and collaborative playwrighting. Each person's input is blinked out in Morse coode through the LED pin on the Raspberry Pi, building on the previous "character's" lines. The controllers are embedded into two paintings who act as each character.
